@@ -15,7 +15,7 @@ We will be using Jupyter Notebooks for our Project. If you are an absolute begin
 
 # Housing Problem
 Everyone has finally come back to campus in their 3rd year after spending their first 4 semesters online and are very excited to know their parent hostels. But to everyone's shock IIT Bombay association and the hostel council has completely changed the rules
-Now we don't get our hostels allotted to us, now we have the liberty to choose our own hostels among hostels 1,2,3 which are at different distances from the Lecture Hall Complex and hence have different living costs. Hostel 1 is farthest from the Lecture Hall Complex (LHC) and Hostel 3 is nearest to the LHC. According to the new rules it is not necessary for only two people to stay in one room, now atmost three people can stay in a room and all the rooms have different areas and hence different renting costs.
+Now we don't get our hostels allotted to us, now we have the liberty to choose our own hostels among hostels 1,2,3 which are at different distances from the Lecture Hall Complex. Hostel 1 is farthest from the Lecture Hall Complex (LHC) and Hostel 3 is nearest to the LHC. According to the new rules it is not necessary for only two people to stay in one room, now atmost three people can stay in a room and all the rooms have different areas and hence different renting costs.
 
 
 ## Task
