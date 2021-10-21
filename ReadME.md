@@ -11,7 +11,7 @@ We will be using Jupyter Notebooks for our Project. If you are an absolute begin
 
 ## Quiz on Basics of Machine Learning
 
- **Task 1**: Try to solve these [**MCQ's**](https://forms.gle/UNLr1X793j2X2giT7) to check your grasp on the basics of Machine Learning.
+ **Task 1**: Try to solve these [**MCQ's**](MCQ's.md) to check your grasp on the basics of Machine Learning.
 
 # Housing Problem
 Everyone has finally come back to campus in their 3rd year after spending their first 4 semesters online and are very excited to know their parent hostels. But to everyone's shock IIT Bombay association and the hostel council has completely changed the rules.
