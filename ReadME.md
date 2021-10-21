@@ -20,5 +20,6 @@ To contribute to these projects you should have a basic grasp on Python. You can
 
       Here the factors will be hostel, occupancy, room area and floor for the price of the room</p>
       Use the notebook given to perform regression on the given dataset and decide the room that Shruti should choose
- - Task 3 : Logistic Regression <br> <p> You will have to perform Logisitic Regression and Decision Tree Algorithm on the [Iris](iris.csv) dataset using Sklearn Framework.
+ - Task 3 : Logistic Regression <br> <p> You will have to perform Logisitic Regression and Decision Tree Algorithm on the [Iris](iris.csv) Dataset using Sklearn Framework.
             You are free to change the hyperparameters or try out other algorithms like Random Forest Classifier and Support Vector Classifier (part of Support Vector Machines) to get better results. 
+  - Task 4 : Learning KNN's from notebook given and then performing classification usin KNN's on the [Iris](iris.csv) Dataset
