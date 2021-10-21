@@ -22,4 +22,4 @@ To contribute to these projects you should have a basic grasp on Python. You can
       Use the notebook given to perform regression on the given dataset and decide the room that Shruti should choose
  - Task 3 : Logistic Regression <br> <p> You will have to perform Logisitic Regression and Decision Tree Algorithm on the [Iris](iris.csv) Dataset using Sklearn Framework.
             You are free to change the hyperparameters or try out other algorithms like Random Forest Classifier and Support Vector Classifier (part of Support Vector Machines) to get better results. 
-  - Task 4 : Learning KNN's from notebook given and then performing classification usin KNN's on the [Iris](iris.csv) Dataset
+  - Task 4 : Learning KNN's from notebook given and then performing classification using KNN's on the [Iris](iris.csv) Dataset
