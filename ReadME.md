@@ -7,7 +7,7 @@ The slides for the Introductory Workshop on Machine Learning can be found <a hre
 Absolutely No Prerequisites for contributing to this Project.
 We will be using Jupyter Notebooks for our Project. If you are an absolute beginner in python have a look at [this](https://github.com/wncc/learners-space/tree/master/Python).
 
-**NOTE: before sending any pull request, rename your file to include your initials as - `<filename>_<roll_number>.<extension>`.**
+**NOTE: Before sending any pull request, rename your file to include your initials as - `<filename>_<roll_number>.<extension>`.**
 
 ## Quiz on Basics of Machine Learning
 
