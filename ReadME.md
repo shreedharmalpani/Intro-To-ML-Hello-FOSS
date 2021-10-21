@@ -14,8 +14,8 @@ We will be using Jupyter Notebooks for our Project. If you are an absolute begin
  **Task 1**: Try to solve these [**MCQ's**](https://forms.gle/UNLr1X793j2X2giT7) to check your grasp on the basics of Machine Learning.
 
 # Housing Problem
-Everyone finally comes back to campus in their 3rd year after spending their first 4 semesters online and are really excited to know their parent hostels. But to everyone's shock IIT Bombay association and the hostel council has completely changed the rules
-Now we don't get our hostels allotted to us, now we have the liberty to choose our own hostels among hostels 1,2,3 which are at different distances from the Lecture Hall Complex and hence have different living costs. Now the rooms aren't just double occupancy. Now 1,2,3 people can stay in a room and respectively all the rooms have different sizes and different costs. According to the new rules it is not necessary for only two people to stay in one room, now atmost three people can stay in a room and all the rooms have different areas and hence different renting costs.
+Everyone has finally come back to campus in their 3rd year after spending their first 4 semesters online and are really excited to know their parent hostels. But to everyone's shock IIT Bombay association and the hostel council has completely changed the rules
+Now we don't get our hostels allotted to us, now we have the liberty to choose our own hostels among hostels 1,2,3 which are at different distances from the Lecture Hall Complex and hence have different living costs. According to the new rules it is not necessary for only two people to stay in one room, now atmost three people can stay in a room and all the rooms have different areas and hence different renting costs.
 
 
 ## Task
