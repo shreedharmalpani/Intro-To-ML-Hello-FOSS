@@ -13,11 +13,12 @@ We will be using Jupyter Notebooks for our Project. If you are an absolute begin
 
  **Task 1**: Try to solve these [**MCQ's**](https://forms.gle/UNLr1X793j2X2giT7) to check your grasp on the basics of Machine Learning.
 
-# The Hostel Allotment Problem
-Everyone finally comes back to campus in their 3rd year after spending their first 4 semesters online and are really excited to know their parent hostels. But  to everyones shock IITB association and the hostel council has completely changed the rules.
-Now we don't get our hostels alloted to us but have the liberty to choose our own hostels among hostels 1,2 and 3. The hostels are at different distnaces from the lecture complex and hence have different living costs. Now the rooms aren't just double occupancy. 1,2 or 3 people can stay in the room and respectively all the rooms have different sizes and different costs.
+# Housing Problem
+Everyone has finally come back to campus in their 3rd year after spending their first 4 semesters online and are very excited to know their parent hostels. But to everyone's shock IIT Bombay association and the hostel council has completely changed the rules
+Now we don't get our hostels allotted to us, now we have the liberty to choose our own hostels among hostels 1,2,3 which are at different distances from the Lecture Hall Complex and hence have different living costs. Hostel 1 is farthest from the Lecture Hall Complex (LHC) and Hostel 3 is nearest to the LHC. According to the new rules it is not necessary for only two people to stay in one room, now atmost three people can stay in a room and all the rooms have different areas and hence different renting costs.
 
-## The Task
+
+## Task
 **Task 2**:  Now to make her choice and to get a room, Shruti visits all the hostels but the hostel managers are not on duty that day. So based on the data Shruti has, she has to predict the cost of the rooms shown [here](Hostel_Linear_Dataset.csv) to decide her room.
 
 Here the factors will be hostel, occupancy, room area and floor for the price of the room.
