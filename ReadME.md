@@ -8,7 +8,7 @@ To contribute to these projects you should have a basic grasp on Python. You can
 
 ## Tasks
 
- - Task 1 : MCQ's <br> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqdocuBOdHH4Ax34FRRNXj0FJmfq3ZSV6w_9GFC62A05UIxw/viewform?embedded=true" width="640" height="2947" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ - Task 1 : MCQ's -  https://forms.gle/UNLr1X793j2X2giT7
  - Task 2 : Linear Regression <br> <p>Everyone finally comes back to campus in their 3rd year after spending their first 4 semesters online and are really excited to know their parent hostels. But  to everyones shock IITB association and the hostel council has completely changed the rules
 
       Now we don't get our hostels alloted to us, now we have the liberty to choose our own hostel among hostel 1,2,3 which are at different distnaces from the lecture complex and hence have different living costs
