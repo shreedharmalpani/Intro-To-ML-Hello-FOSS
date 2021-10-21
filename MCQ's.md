@@ -1,6 +1,11 @@
 # Intro to ML - Quiz
 ### This quiz is just to revise the concepts covered in the session
 
+Change the markdown file for submission of the quiz
+
+![image](https://user-images.githubusercontent.com/73156496/138316343-d2d28e9e-b6b6-4732-a87c-0733a5d4d939.png)
+
+
  - Suppose you are working on weather prediction and use a learning algorithm to predict tomorrow's temperature . What kind of problem would that be? 
    - [ ] Classification
    - [ ] Regression
