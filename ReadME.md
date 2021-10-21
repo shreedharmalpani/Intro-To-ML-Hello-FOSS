@@ -29,5 +29,5 @@ Here the factors will be hostel, occupancy, room area and floor for the price of
 **Task 4**: Learning KNN's from notebook given and then performing classification using KNN's on the [Iris](iris.csv) Dataset
 
 ***
-Join our [Discord Server](https://discord.gg/fHUH46xyGD)
+Join our [Discord Server](https://discord.gg/fHUH46xyGD) for discussing your doubts regarding any of the tasks given above.
 <p align="center">Created with :heart: by <a href="https://wncc-iitb.org/">WnCC</a></p>
