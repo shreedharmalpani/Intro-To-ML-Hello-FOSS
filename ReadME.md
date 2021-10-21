@@ -23,7 +23,7 @@ Now we don't get our hostels alloted to us, now we have the liberty to choose ou
 
 Here the factors will be hostel, occupancy, room area and floor for the price of the room.
 
-# SK Learn Implementation Tasks
+## SK Learn Implementation Tasks
 **Task 3**: You will have to perform Logisitic Regression and Decision Tree Algorithm on the [Iris](iris.csv) Dataset using Sklearn Library. You are free to change the hyperparameters or try out other algorithms like Random Forest Classifier and Support Vector Classifier (part of Support Vector Machines) to get better results. 
 
 **Task 4**: Learning KNN's from notebook given and then performing classification using KNN's on the [Iris](iris.csv) Dataset
