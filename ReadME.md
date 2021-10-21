@@ -1,4 +1,4 @@
-# Intro to ML
+# Intro To ML - Hello Foss
 
 The slides for the session can be found <a href = "https://docs.google.com/presentation/d/1UKiMZTcnCOUxNHcBNnSd-n6FCgyZYEldMT--3h0nzok/edit?usp=sharing">here</a>
 
