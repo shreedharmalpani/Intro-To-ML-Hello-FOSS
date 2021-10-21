@@ -3,7 +3,7 @@
 The slides for the session can be found <a href = "https://docs.google.com/presentation/d/1UKiMZTcnCOUxNHcBNnSd-n6FCgyZYEldMT--3h0nzok/edit?usp=sharing">here</a>
 
 ## Guidelines
-To contribute to these projects you should have a basic grasp on Python. You can go through [these resources](https://github.com/wncc/TSS-2021/tree/main/Python%20%26%20its%20Applications/Week-1) if you want to revise or learn Python. <br>
+To contribute to these projects you should have a basic grasp on Python. You can go through [these resources](https://github.com/wncc/TSS-2021/tree/main/Python%20%26%20its%20Applications/Week-1) if you want to learn Python. <br>
 **NOTE: before sending any pull request, rename your file to include your initials as - filename_RollNum.extension**.
 
 ## Tasks
