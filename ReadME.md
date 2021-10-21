@@ -19,7 +19,7 @@ Now we don't get our hostels allotted to us, now we have the liberty to choose o
 
 
 ## Task
-**Task 2**:  Now to make her choice and to get a room, Shruti visits all the hostels but the hostel managers are not on duty that day. So based on the data Shruti has, she has to predict the cost of the rooms shown [here](https://github.com/shreedharmalpani/Intro-To-ML-Hello-FOSS/blob/main/Hostel_Linear-Dataset.csv) to decide her room.
+**Task 2**:  Now to make her choice and to get a room, Shruti visits all the hostels but the hostel managers are not on duty that day. So based on the data Shruti has, she has to predict the cost of the rooms shown [here](Hostel_Linear-Dataset.csv) to decide her room.
 
 Here the factors will be hostel, occupancy, room area and floor for the price of the room.
 
